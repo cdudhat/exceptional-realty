@@ -7,4 +7,4 @@ This is an example site for the Intro to Front-end Web Development Course at the
 
 #Contact
 
-email: cdudhat@gmail.com
+email: contact@abc.xyz
